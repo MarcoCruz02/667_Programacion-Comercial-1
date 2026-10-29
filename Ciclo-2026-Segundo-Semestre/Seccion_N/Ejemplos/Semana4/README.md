@@ -1,0 +1,2 @@
+# EJERCICIO PRACTICO SEMANA 4
+Para la semana 4 el ejercicio practico desarrollado consistio en dar un acercamiento a los estudiantes con la herramienta de gesion de bases de datos (SSMS) y mostrar el correcto uso y funcionamiento.

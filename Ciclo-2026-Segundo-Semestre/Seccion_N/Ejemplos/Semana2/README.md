@@ -1,0 +1,2 @@
+# EJEMPLO PRACTICO SEMANA 2
+Para la semana 2 el ejemplo practico consiste en el diseño de un diagrama entidad relacion con los estudiantes con una tematica libre usando alguna herramienta de diseño en linea como Draw.io.

@@ -1,0 +1,2 @@
+# EJERCICIO PRACTICO SEMANA 6
+Durante esta semana solo se muestra la correcta instalacion del software seleccionado para la unidad de gestion de proyectos como Microsft Project y se da un acercamiento introductorio a la herramienta por lo que no hay ejercicio practico para esta semana.

@@ -1,0 +1,22 @@
+Table Categorias {
+  CategoriaID integer [primary key]
+  NombreCategoria varchar
+}
+
+Table Proveedores {
+  ProveedorID integer [primary key]
+  NombreProveedor varchar
+  Telefono varchar
+}
+
+Table Instrumentos {
+  InstrumentoID integer [primary key]
+  Nombre varchar
+  CategoriaID integer
+  ProveedorID integer
+  Precio decimal
+  Stock integer
+}
+
+Ref: Instrumentos.CategoriaID > Categorias.CategoriaID
+Ref: Instrumentos.ProveedorID > Proveedores.ProveedorID
